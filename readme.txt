@@ -14,8 +14,24 @@ The original data was sourced from [https://www.kaggle.com/datasets/altruistdelh
 
 ## How to Use
 - Cleaned datasets are available in the `data` folder as CSV files.
+
+
+
 - Cleaning SQL script is in the `scripts` folder.
 - You can load these CSVs into any data analysis tool for exploration and modeling.
 
 ## Next Steps
 Plan to perform detailed exploratory data analysis (EDA) and maybe build predictive models.
+
+
+
+
+## Exploratory Data Analysis
+- Uncovered patterns and insights from the cleaned loan dataset using SQL
+- Explored total income analysis (Applicant + Coapplicant)
+- Analyzed loan approval trends based on income and loan amount
+- Investigated the impact of education and property area on loan approval
+- Examined the correlation between marital status and loan approvals
+
+## How to Use
+- Exploration queries and detailed insights are in the `exploration.sql` file
