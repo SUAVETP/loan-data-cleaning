@@ -15,15 +15,11 @@ The original data was sourced from [https://www.kaggle.com/datasets/altruistdelh
 ## How to Use
 - Cleaned datasets are available in the `data` folder as CSV files.
 
-
-
 - Cleaning SQL script is in the `scripts` folder.
 - You can load these CSVs into any data analysis tool for exploration and modeling.
 
 ## Next Steps
 Plan to perform detailed exploratory data analysis (EDA) and maybe build predictive models.
-
-
 
 
 ## Exploratory Data Analysis
